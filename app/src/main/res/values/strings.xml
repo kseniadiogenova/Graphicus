@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Graphicus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="tabs_array">
+        <item>Построенные графики</item>
+        <item>Вввести график</item>
+    </string-array>
+
+    <string name="action_settings">Настройки графиков</string>
+    <string name="equations">Вввести график</string>
+    <string name="graphicus">Построенные графики</string>
+</resources>

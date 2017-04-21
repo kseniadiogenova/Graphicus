@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_52c865a6a40d64784ef4c7d8816da6acba09ec4c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d01017664fa545dc2050a1dfcdb1d2c05c682a26/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_53895888f7f6b8bf914a862a994c52b59936bd1b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_02cbfbb6df5ff7a97105ee3a55de80fd64871c2d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_db637a70a529300984474e325159953cb7819ad9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_dabcded6966ba9d9384ef5cb2095965c9e995300/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_b7c68cabf2e33c25bcea94b2e5323bcff7985ba0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="414877e0cbaa81a66ae8d256eff84a2dfdc31373">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_810d4a246beff11c67a86c28eb2efd083d1c41f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jjoe64-graphview-4.0.1_d3a6e9c9199330909d20a4372acb2f9665918c5e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_34a0bcd6e1576a4dc71e9aa7e5eda3e60fc790ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b80d9a4f07f2e3b2b831d1e0cac0e90bc539138e">
+        <dex dex="/Users/kseniadiogenova/Desktop/Graphicus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_038e3f6dac8e6addf00f8521aee9244b26843961/classes.dex" />
+    </item>
+
+</items>
